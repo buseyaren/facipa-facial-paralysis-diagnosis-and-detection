@@ -1,0 +1,3 @@
+[console_scripts]
+cmake.py = cmakepy.cmakepy:main
+

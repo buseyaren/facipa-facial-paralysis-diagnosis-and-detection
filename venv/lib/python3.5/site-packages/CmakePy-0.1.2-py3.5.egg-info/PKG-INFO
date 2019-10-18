@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: CmakePy
+Version: 0.1.2
+Summary: Creates a new cmake project
+Home-page: https://github.com/jlesquembre/cmakepy
+Author: Jose Luis Lafuente
+Author-email: joseluis@japeto.com
+License: GPLv3
+Description: UNKNOWN
+Keywords: cmake c++
+Platform: UNKNOWN

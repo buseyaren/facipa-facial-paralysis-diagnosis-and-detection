@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f286c75d-c1d9-4abc-9324-60024863492b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/projeDeneme$facial_landmarks.coverage" NAME="facial_landmarks Coverage Results" MODIFIED="1558661616867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/projeDeneme$api_trying.coverage" NAME="api_trying Coverage Results" MODIFIED="1568744618049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/projeDeneme$uygulama.coverage" NAME="uygulama Coverage Results" MODIFIED="1558660744876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/projeDeneme$get_status.coverage" NAME="get_status Coverage Results" MODIFIED="1568744623732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+      <find>res</find>
+      <find>ş</find>
+      <find>imshow</find>
+      <find>imageP</find>
+    </findStrings>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="506" />
+    <option name="y" value="6" />
+    <option name="width" value="735" />
+    <option name="height" value="444" />
+  </component>
+  <component name="ProjectId" id="1SO7kbwvYmhUi9Np2s0PfxVzoDY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../.." />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.api_trying">
+    <configuration name="api_trying" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="projeDeneme" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api_trying.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="facial_landmarks" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="projeDeneme" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/facial_landmarks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_status" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="projeDeneme" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_status.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="uygulama" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="projeDeneme" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uygulama.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.api_trying" />
+        <item itemvalue="Python.get_status" />
+        <item itemvalue="Python.facial_landmarks" />
+        <item itemvalue="Python.uygulama" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f286c75d-c1d9-4abc-9324-60024863492b" name="Default Changelist" comment="" />
+      <created>1555178878758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555178878758</updated>
+      <workItem from="1555178880263" duration="1488000" />
+      <workItem from="1555456139689" duration="90000" />
+      <workItem from="1555584923162" duration="161000" />
+      <workItem from="1555585107278" duration="1160000" />
+      <workItem from="1555854099359" duration="9000" />
+      <workItem from="1556189614009" duration="3251000" />
+      <workItem from="1556198236754" duration="1696000" />
+      <workItem from="1556201636578" duration="1349000" />
+      <workItem from="1556204008849" duration="67000" />
+      <workItem from="1556204094846" duration="238000" />
+      <workItem from="1556204370119" duration="50000" />
+      <workItem from="1556204651731" duration="4350000" />
+      <workItem from="1556275739058" duration="2814000" />
+      <workItem from="1556280485236" duration="4546000" />
+      <workItem from="1556289166409" duration="614000" />
+      <workItem from="1556397137443" duration="422000" />
+      <workItem from="1556446556759" duration="158000" />
+      <workItem from="1556446966304" duration="3760000" />
+      <workItem from="1556455201174" duration="598000" />
+      <workItem from="1556552237702" duration="383000" />
+      <workItem from="1556619919195" duration="1715000" />
+      <workItem from="1556621819207" duration="9833000" />
+      <workItem from="1556792241048" duration="1546000" />
+      <workItem from="1556795990178" duration="13097000" />
+      <workItem from="1556875237896" duration="1098000" />
+      <workItem from="1556891022317" duration="2150000" />
+      <workItem from="1556930000374" duration="343000" />
+      <workItem from="1556972954325" duration="2644000" />
+      <workItem from="1557092984270" duration="41000" />
+      <workItem from="1557580365324" duration="2613000" />
+      <workItem from="1557657447135" duration="2071000" />
+      <workItem from="1558028096555" duration="6718000" />
+      <workItem from="1558046942924" duration="2475000" />
+      <workItem from="1558545714322" duration="169000" />
+      <workItem from="1558659347633" duration="12227000" />
+      <workItem from="1558799091910" duration="3514000" />
+      <workItem from="1558823110711" duration="1454000" />
+      <workItem from="1558826092756" duration="2129000" />
+      <workItem from="1558830244798" duration="2447000" />
+      <workItem from="1558835638570" duration="20000" />
+      <workItem from="1558883234325" duration="606000" />
+      <workItem from="1558887614475" duration="26000" />
+      <workItem from="1558905518555" duration="596000" />
+      <workItem from="1558911652767" duration="108000" />
+      <workItem from="1558918620604" duration="71000" />
+      <workItem from="1558951018236" duration="895000" />
+      <workItem from="1559001469903" duration="20000" />
+      <workItem from="1559002297784" duration="1615000" />
+      <workItem from="1559019538362" duration="358000" />
+      <workItem from="1559171242828" duration="651000" />
+      <workItem from="1559178335270" duration="1519000" />
+      <workItem from="1559180919847" duration="599000" />
+      <workItem from="1559208746762" duration="3341000" />
+      <workItem from="1559298954815" duration="2685000" />
+      <workItem from="1559642052156" duration="708000" />
+      <workItem from="1559728542815" duration="1782000" />
+      <workItem from="1559867696034" duration="63000" />
+      <workItem from="1568744569959" duration="133000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="111284000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="24" key="#api_trying" timestamp="1571422948818">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="362" y="24" key="#api_trying/0.24.1366.744@0.24.1366.744" timestamp="1571422948818" />
+    <state width="1343" height="193" key="GridCell.Tab.0.bottom" timestamp="1571422917155">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1343" height="193" key="GridCell.Tab.0.bottom/0.24.1366.744@0.24.1366.744" timestamp="1571422917155" />
+    <state width="1343" height="193" key="GridCell.Tab.0.center" timestamp="1571422917155">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1343" height="193" key="GridCell.Tab.0.center/0.24.1366.744@0.24.1366.744" timestamp="1571422917155" />
+    <state width="1343" height="193" key="GridCell.Tab.0.left" timestamp="1571422917154">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1343" height="193" key="GridCell.Tab.0.left/0.24.1366.744@0.24.1366.744" timestamp="1571422917154" />
+    <state width="1343" height="193" key="GridCell.Tab.0.right" timestamp="1571422917155">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1343" height="193" key="GridCell.Tab.0.right/0.24.1366.744@0.24.1366.744" timestamp="1571422917155" />
+    <state x="161" y="24" key="SettingsEditor" timestamp="1571422958360">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="161" y="24" key="SettingsEditor/0.24.1366.744@0.24.1366.744" timestamp="1571422958360" />
+  </component>
+</project>

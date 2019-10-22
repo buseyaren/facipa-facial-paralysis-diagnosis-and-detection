@@ -23,9 +23,9 @@ Python kodlarının çalıştırılabilmesi için PyCharm IDE'sinde kullanılan 
     
    Eğer yalnızca felç algoritması çalıştırılacaksa dosya içerisinde baz alınan imageP değişkeni üzerinden tespit edilmek istenen fotoğraf manuel olarak belirtilmelidir. 
     
- `python facial_landmarks.py --shape-predictor shape_predictor_68_face_landmarks.dat \--image face.jpg`
+    > python facial_landmarks.py --shape-predictor shape_predictor_68_face_landmarks.dat \--image face.jpg`
     
    Sunucu bazlı çalışılacaksa api_trying dosyasının Run edilmesi yeterlidir.
     
-  `python api_trying.py`
+    > python api_trying.py
    

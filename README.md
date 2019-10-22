@@ -13,6 +13,8 @@ Python kodlarının çalıştırılabilmesi için PyCharm IDE'sinde kullanılan 
 
 👉 Gerek duyulursa Flask
 
+-------------
+***Projede Var Olan Tüm Kütüphane ve Paketler***
 
 ✔️ Python version:3.5
 

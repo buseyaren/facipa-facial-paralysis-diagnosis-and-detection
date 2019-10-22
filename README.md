@@ -1,6 +1,6 @@
 **FaCiPa: YÜZ FELCİ TEŞHİS ALGORİTMASI **
 
-***Uygulamanın Çalıştırılması***
+**Uygulamanın Çalıştırılması**
 
 Python kodlarının çalıştırılabilmesi için PyCharm IDE'sinde kullanılan versiyonlar aşağıda belirtilmiştir.
 
@@ -18,13 +18,13 @@ Python kodlarının çalıştırılabilmesi için PyCharm IDE'sinde kullanılan 
 
 ✔️ imutils:0.5.3
 
-    Projede 68 tane koordinat modeli baz alınarak yüz felci algoritması çalıştırılmaktadır. Algoritmanın ve shape-predictor modelinin yer aldığı kod dosyası facial_landmarks.py, projenin mobil platformda çalışılması için yazılan Flask API kodu ise api_trying.py dosyasında yer almaktadır.
+Projede 68 tane koordinat modeli baz alınarak yüz felci algoritması çalıştırılmaktadır. Algoritmanın ve shape-predictor modelinin yer aldığı kod dosyası facial_landmarks.py, projenin mobil platformda çalışılması için yazılan Flask API kodu ise api_trying.py dosyasında yer almaktadır.
     
-    Eğer yalnızca felç algoritması çalıştırılacaksa dosya içerisinde baz alınan imageP değişkeni üzerinden tespit edilmek istenen fotoğraf manuel olarak belirtilmelidir. 
+Eğer yalnızca felç algoritması çalıştırılacaksa dosya içerisinde baz alınan imageP değişkeni üzerinden tespit edilmek istenen fotoğraf manuel olarak belirtilmelidir. 
     
     > python facial_landmarks.py --shape-predictor shape_predictor_68_face_landmarks.dat \--image face.jpg
     
-    Sunucu bazlı çalışılacaksa api_trying dosyasının Run edilmesi yeterlidir.
+Sunucu bazlı çalışılacaksa api_trying dosyasının Run edilmesi yeterlidir.
     
     > python api_trying.py
    

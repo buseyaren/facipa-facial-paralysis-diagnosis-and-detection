@@ -1,4 +1,4 @@
-**FaCiPa: YÜZ FELCİ TEŞHİS ALGORİTMASI **
+**FaCiPa: YÜZ FELCİ TEŞHİS ALGORİTMASI (Facial_landmarks 68 coordinates)**
 
 **Uygulamanın Çalıştırılması**
 

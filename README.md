@@ -29,3 +29,8 @@ Python kodlarının çalıştırılabilmesi için PyCharm IDE'sinde kullanılan 
     
     > python api_trying.py
    
+**Pip Kurulumu**
+
+Ubuntu 16.04 PIP Kurulumu
+
+https://www.rosehosting.com/blog/how-to-install-pip-on-ubuntu-16-04/

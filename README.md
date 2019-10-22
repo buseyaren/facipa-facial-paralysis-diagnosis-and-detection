@@ -26,5 +26,5 @@ Eğer yalnızca felç algoritması çalıştırılacaksa dosya içerisinde baz a
     
 Sunucu bazlı çalışılacaksa api_trying dosyasının Run edilmesi yeterlidir.
     
-> python api_trying.py
+    > python api_trying.py
    

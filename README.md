@@ -7,7 +7,7 @@ Python kodlarının çalıştırılabilmesi için PyCharm IDE'sinde kullanılan 
 
 ***Öncelikli Kurulması Gereken Kütüphane ve Paketler***
 
--***Python***
+***Python***
 
 ***Pip***
 

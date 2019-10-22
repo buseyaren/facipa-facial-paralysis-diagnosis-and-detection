@@ -6,11 +6,12 @@
 Python kodlarının çalıştırılabilmesi için PyCharm IDE'sinde kullanılan versiyonlar aşağıda belirtilmiştir.
 
 ***Öncelikli Kurulması Gereken Kütüphane ve Paketler***
-1. Pip Package Manager
 
-2.Python 3.5 version
+👉 Pip Package Manager
 
-3. Gerek duyulursa Flask
+👉 Python 3.5 version
+
+👉 Gerek duyulursa Flask
 
 
 ✔️ Python version:3.5

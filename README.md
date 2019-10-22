@@ -7,11 +7,11 @@ Python kodlarının çalıştırılabilmesi için PyCharm IDE'sinde kullanılan 
 
 ***Öncelikli Kurulması Gereken Kütüphane ve Paketler***
 
--> ***Python
+-***Python***
 
--> ***Pip
+***Pip***
 
--> ***Flask (istenirse)
+***Flask (istenirse)***
 
 ✔️ Python version:3.5
 

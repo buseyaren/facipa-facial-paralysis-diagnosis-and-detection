@@ -1,7 +1,7 @@
 **FaCiPa: YÜZ FELCİ TEŞHİS ALGORİTMASI (Facial_landmarks 68 coordinates)**
 
 **Uygulamanın Çalıştırılması**
-
+---------------
 
 Python kodlarının çalıştırılabilmesi için PyCharm IDE'sinde kullanılan versiyonlar aşağıda belirtilmiştir.
 

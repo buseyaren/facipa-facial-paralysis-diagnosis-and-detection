@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f286c75d-c1d9-4abc-9324-60024863492b" name="Default Changelist" comment="" />
+    <list default="true" id="f286c75d-c1d9-4abc-9324-60024863492b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/facial_landmarks.py" beforeDir="false" afterPath="$PROJECT_DIR$/facial_landmarks.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,11 +47,8 @@
       <find>imageP</find>
     </findStrings>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="506" />
-    <option name="y" value="6" />
-    <option name="width" value="735" />
-    <option name="height" value="444" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SO7kbwvYmhUi9Np2s0PfxVzoDY" />
   <component name="ProjectViewState">
@@ -56,6 +57,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -65,23 +68,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../.." />
+      <recent name="D:" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.api_trying">
+  <component name="RunManager" selected="Python.facial_landmarks">
     <configuration name="api_trying" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="projeDeneme" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,6 +87,69 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api_trying.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="facial_landmarks (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="projeDeneme" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/FaCiPa/FaCiPa-FacialDetec68coordinates-master" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:/FaCiPa/FaCiPa-FacialDetec68coordinates-master/facial_landmarks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="facial_landmarks (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="projeDeneme" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/Telegram İndirilenler" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:/Telegram İndirilenler/facial_landmarks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="facial_landmarks (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="projeDeneme" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/Telegram İndirilenler" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:/Telegram İndirilenler/facial_landmarks (3).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,58 +180,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="get_status" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="projeDeneme" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_status.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="uygulama" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="projeDeneme" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uygulama.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.api_trying" />
-        <item itemvalue="Python.get_status" />
         <item itemvalue="Python.facial_landmarks" />
-        <item itemvalue="Python.uygulama" />
+        <item itemvalue="Python.facial_landmarks (1)" />
+        <item itemvalue="Python.facial_landmarks (3)" />
+        <item itemvalue="Python.facial_landmarks (2)" />
+        <item itemvalue="Python.api_trying" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -266,29 +289,45 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="362" y="24" key="#api_trying" timestamp="1571422948818">
-      <screen x="0" y="24" width="1366" height="744" />
+    <state width="1345" height="223" key="GridCell.Tab.0.bottom" timestamp="1588868334287">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="362" y="24" key="#api_trying/0.24.1366.744@0.24.1366.744" timestamp="1571422948818" />
-    <state width="1343" height="193" key="GridCell.Tab.0.bottom" timestamp="1571422917155">
-      <screen x="0" y="24" width="1366" height="744" />
+    <state width="1345" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588868334287" />
+    <state width="1345" height="223" key="GridCell.Tab.0.center" timestamp="1588868334287">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1343" height="193" key="GridCell.Tab.0.bottom/0.24.1366.744@0.24.1366.744" timestamp="1571422917155" />
-    <state width="1343" height="193" key="GridCell.Tab.0.center" timestamp="1571422917155">
-      <screen x="0" y="24" width="1366" height="744" />
+    <state width="1345" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588868334287" />
+    <state width="1345" height="223" key="GridCell.Tab.0.left" timestamp="1588868334286">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1343" height="193" key="GridCell.Tab.0.center/0.24.1366.744@0.24.1366.744" timestamp="1571422917155" />
-    <state width="1343" height="193" key="GridCell.Tab.0.left" timestamp="1571422917154">
-      <screen x="0" y="24" width="1366" height="744" />
+    <state width="1345" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588868334286" />
+    <state width="1345" height="223" key="GridCell.Tab.0.right" timestamp="1588868334287">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1343" height="193" key="GridCell.Tab.0.left/0.24.1366.744@0.24.1366.744" timestamp="1571422917154" />
-    <state width="1343" height="193" key="GridCell.Tab.0.right" timestamp="1571422917155">
-      <screen x="0" y="24" width="1366" height="744" />
+    <state width="1345" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588868334287" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1588868334287">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1343" height="193" key="GridCell.Tab.0.right/0.24.1366.744@0.24.1366.744" timestamp="1571422917155" />
-    <state x="161" y="24" key="SettingsEditor" timestamp="1571422958360">
-      <screen x="0" y="24" width="1366" height="744" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588868334287" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1588868334287">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="161" y="24" key="SettingsEditor/0.24.1366.744@0.24.1366.744" timestamp="1571422958360" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588868334287" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1588868334287">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588868334287" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1588868334287">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588868334287" />
+    <state x="186" y="10" key="SettingsEditor" timestamp="1588867110089">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588867110089" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1588866613913">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588866613913" />
   </component>
 </project>

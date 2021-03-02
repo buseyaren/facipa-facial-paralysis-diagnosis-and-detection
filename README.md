@@ -1,22 +1,22 @@
-**FaCiPa: YÜZ FELCİ TEŞHİS ALGORİTMASI (Facial_landmarks 68 coordinates)**
+**FaCiPa: FACIAL PARALYSIS DIAGNOSIS ALGORITHM (Facial Landmarks 68 coordinates)** 
 
-**Uygulamanın Çalıştırılması**
+**Running the Application**
 ---------------
 
-Python kodlarının çalıştırılabilmesi için PyCharm IDE'sinde kullanılan versiyonlar aşağıda belirtilmiştir.
+The versions used in the PyCharm IDE to run Python codes are listed below.
 
-***Öncelikli Kurulması Gereken Kütüphane ve Paketler***
+***Libraries and Packages to be Installed with Priority***
 
 👉 Pip Package Manager
 
-👉 Python 3.5 version
+👉 Python 3.5 Version
 
-👉 Gerek duyulursa Flask
+👉 Flask for API if needed
 
 -------------
-***Projede Var Olan Tüm Kütüphane ve Paketler***
+***All Libraries and Packages in the Project***
 
-✔️ Python version:3.5
+✔️ Python Version:3.5
 
 ✔️ pip:19.1.1
 
@@ -30,18 +30,23 @@ Python kodlarının çalıştırılabilmesi için PyCharm IDE'sinde kullanılan 
 
 ✔️ imutils:0.5.3
 
-   Projede 68 tane koordinat modeli baz alınarak yüz felci algoritması çalıştırılmaktadır. Algoritmanın ve shape-predictor modelinin yer aldığı kod dosyası facial_landmarks.py, projenin mobil platformda çalışılması için yazılan Flask API kodu ise api_trying.py dosyasında yer almaktadır.
-    
-   Eğer yalnızca felç algoritması çalıştırılacaksa dosya içerisinde baz alınan imageP değişkeni üzerinden tespit edilmek istenen fotoğraf manuel olarak belirtilmelidir. 
-    
+   In the project, facial paralysis algorithm is run based on 68 coordinate models. The code file that contains the algorithm and the shape-predictor model is facial_landmarks.py, and the Flask API code written for the mobile platform of the project is located in the api_trying.py file.
+
+   If only the paralysis algorithm will be run, the photo to be detected on the imageP variable based on the file must be specified manually.
+        
     > python facial_landmarks.py --shape-predictor shape_predictor_68_face_landmarks.dat \--image face.jpg
     
-   Sunucu bazlı çalışılacaksa api_trying dosyasının Run edilmesi yeterlidir.
+   If server-based work is to be done, it is sufficient to run the api_trying file.
     
     > python api_trying.py
    
-**Pip Kurulumu**
+**Setting Pip**
 
-Ubuntu 16.04 PIP Kurulumu
+Setting Ubuntu 16.04 PIP
 
 https://www.rosehosting.com/blog/how-to-install-pip-on-ubuntu-16-04/
+
+
+**A view from the project:**
+
+![Facial Paralysis Detection Sample](Projectoutput.png "Facial Paralysis Detection Sample")
